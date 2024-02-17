@@ -35,9 +35,3 @@ Le projet est organisé comme suit :
 - **talend_jobs :**
   - Contient les jobs Talend créés pour l'extraction, la transformation, et le chargement des données.
 
-## Comment Démarrer
-
-1. Clonez le dépôt :
-   ```bash
-   git clone <repository-url>
-   cd integration-donnees-talend
